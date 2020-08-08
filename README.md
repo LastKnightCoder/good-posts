@@ -1,0 +1,18 @@
+- JavaScript
+  - [JavaScript正则表达式迷你书](https://github.com/qdlaoyao/js-regex-mini-book/blob/master/JavaScript正则表达式迷你书（1.1版）.pdf)
+  - [图解 Promise 实现原理（一）：先写一个基础的 Promise](https://mp.weixin.qq.com/s/cZEZBPOlrH6oev6dZZTM6g)
+  - [图解 Promise 实现原理（二）： Promise 链式调用](https://mp.weixin.qq.com/s/6DkWK9ut5YpRJzzTJNmhrQ)
+  - [图解 Promise 实现原理（三）：Promise 原型方法实现](https://mp.weixin.qq.com/s/OghovEOSMAytcklBb_6o1A)
+  - [图解 Promise 实现原理（四）：Promise 静态方法实现](https://mp.weixin.qq.com/s/iT0l9g1W-WsrsY-5Jxbkdw)
+- React
+  - [React 小书](http://huziketang.mangojuice.top/books/react/)
+- Vue
+- Java
+  - [Java 设计模式](https://juejin.im/post/5bc96afff265da0aa94a4493)
+- Spring
+- Linux
+- Python
+- MATLAB
+- 计算机
+  - [用简单的代码，看懂 CPU 背后的重要机制](https://mp.weixin.qq.com/s?__biz=MzU4NTIxODYwMQ==&mid=2247486056&idx=1&sn=bf60187c7c2de2dcc863be33b4a28341&chksm=fd8ca52ecafb2c384524a4b470693ab5f522e323debc9afaf4a2ba27651d5aba1f7d015bd6cd&scene=126&sessionid=1595377838&key=ca85356d1be876fdc099884c34eb167ab914426665c9ac330ff0720b8fbbac95f8c26425c6f524ae3234cae195bc906943802deca9c2dfccff412755ddc69c83c047c210082537d4d0319c7311c23209&ascene=1&uin=MTc3NjQ2ODM3NQ%3D%3D&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AVgUVm8CGDeQUZMc8fMoCXU%3D&pass_ticket=wUIUl7ZRMoC4BWW6vK2gY3B%2BcHPxWGdbMdnH29dM9FOptM7EOx6vD2ae3gg412eZ)
+
