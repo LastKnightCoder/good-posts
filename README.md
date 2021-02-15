@@ -12,18 +12,25 @@
   - [对象 — 原始值转换](https://zh.javascript.info/object-toprimitive)
   - [Fetch API 教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html)
   - [Axios or fetch(): Which should you use?](https://blog.logrocket.com/axios-or-fetch-api/)
+  - [从打字机效果的 N 种实现看JS定时器机制和前端动画](https://mp.weixin.qq.com/s/4zuFZ6mh0d2rHSgltF1sFw)
+  - [你会喜欢的新数组方法:array.at(index)](https://mp.weixin.qq.com/s/Zt0nM8OYcSyMje8E8zoU8g)
 - React
   
   - [React 小书](http://huziketang.mangojuice.top/books/react/)
   - [CSS Modules 详解及 React 中实践](https://github.com/camsong/blog/issues/5)
   - [闲庭信步聊前端 - 原来你是这样的refs](https://mp.weixin.qq.com/s/UIz5ITrbyDy8ixrtjAE_Zg)
+  - [Virtual DOM 认知误区](https://juejin.cn/post/6898526276529684493)
 - Java
   
   - [Java 设计模式](https://juejin.im/post/5bc96afff265da0aa94a4493)
   - [Java 8 flatMap example](https://mkyong.com/java8/java-8-flatmap-example/)
   - [用过Optional；那用过Try么?](https://mp.weixin.qq.com/s/o_YlSRdpoXp48YU6UIWZpw)
+  - [日志架构设计](https://mp.weixin.qq.com/s/GbjXWV_xD5wlSAWw19sriA)
+  - [显微镜下的 i++ 与 ++i](https://mp.weixin.qq.com/s/FeScrJt5UidqcFBoJqYi9w)
+  - [Java中那些让你傻傻分不清楚的小细节](https://mp.weixin.qq.com/s/DIp9vhROicn-gwS_0CQImw)
 - Node
   - [Node’s Streams](https://jscomplete.com/learn/node-beyond-basics/node-streams)
+  - [Node.js 的模块系统](https://loveky.github.io/2019/02/12/nodejs-module-system/)
 - Git
   - [Git 内部原理图解——对象、分支以及如何从零开始建仓库](https://mp.weixin.qq.com/s/9uep93f3MCf1RzWTI6pw0A)
   - [Pull Request 概念](https://www.zhihu.com/question/21682976)
@@ -35,6 +42,12 @@
   
   - [用简单的代码，看懂 CPU 背后的重要机制](https://mp.weixin.qq.com/s/xpZE2uWsQOGjc1_P50q1Eg)
   - [Unicode中UTF-8与UTF-16的详细了解](https://my.oschina.net/wangch5453/blog/3044462#:~:text=%E8%AF%84%E8%AE%BA0-,%E5%9C%A8JavaScript%E4%B8%AD%EF%BC%8C%E6%89%80%E6%9C%89%E7%9A%84string%E7%B1%BB%E5%9E%8B%EF%BC%88%E6%88%96%E8%80%85%E8%A2%AB%E7%A7%B0,%E4%BD%BF%E7%94%A8UTF%2D16%E7%BC%96%E7%A0%81%E7%9A%84%E3%80%82&text=DOMString%20%E6%98%AF%E4%B8%80%E4%B8%AAUTF%2D16,%E7%9B%B4%E6%8E%A5%E6%98%A0%E5%B0%84%E5%88%B0%E4%B8%80%E4%B8%AA%20String%20%E3%80%82)
-
+- [一文读懂 Base64](https://mp.weixin.qq.com/s/67VoNO_tslkig2u0SQqBzA)
 - 数据结构
   - [一个基于运气的数据结构，你猜是啥?](https://mp.weixin.qq.com/s/SYE8DP0YMrGl_Lc2CILPjg)
+- 数据库
+  - [两阶段提交与三阶段提交](https://zhuanlan.zhihu.com/p/35616810)
+  - [关于SQL优化，你不能只是说自己只会语句的优化了](https://mp.weixin.qq.com/s/cGSGB1WcojeS5ZUtbBRsdA)
+- Redis
+  - [《吊打面试官》系列-缓存雪崩、击穿、穿透](https://mp.weixin.qq.com/s/knz-j-m8bTg5GnKc7oeZLg)
+
