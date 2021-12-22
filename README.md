@@ -1,12 +1,20 @@
 - HTML
   - [5个不常提及的HTML技巧](https://segmentfault.com/a/1190000039240225)
   - [10 useful HTML file upload tips for web developers](https://dev.to/atapas/10-useful-html-file-upload-tips-for-web-developers-2d1d)
-  
 - CSS
   - [CSS3 会替代 SCSS 吗?](https://mp.weixin.qq.com/s/EW3KTuNIpkpvuaKAtTzdGQ)
   - [CSS Grid 网格布局教程](https://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
-  - 
-  
+  - [深入了解魔性的CSS字体](https://mp.weixin.qq.com/s/XjLfsQH78XEDQ4xCd_FHlw)
+  - [详述css中的百分比值](http://acgtofe.com/posts/2014/06/percentage-in-css)
+  - [Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
+  - [深入理解CSS中的层叠上下文和层叠顺序](https://www.zhangxinxu.com/wordpress/2016/01/understand-css-stacking-context-order-z-index/)
+  - [重新認識 Pixel、DPI / PPI 以及像素密度](https://blog.infolink.com.tw/2021/rediscover-pixel-dpi-ppi-and-pixel-density/)
+  - [三角函数在前端动画中的应用](https://juejin.cn/post/6844903957807153165)
+- Canvas
+  - [你不知道的canvas 性能优化](https://mp.weixin.qq.com/s/qEr5Tm49bAlJjgyDUp_3_w)
+- 浏览器原理及优化
+  - [What is Domain Sharding?](https://blog.stackpath.com/glossary-domain-sharding/)
+  - [浏览器层合成与页面渲染优化](https://juejin.cn/post/6844903959425974280)
 - JavaScript
   - [JavaScript正则表达式迷你书](https://github.com/qdlaoyao/js-regex-mini-book/blob/master/JavaScript正则表达式迷你书（1.1版）.pdf)
   - [图解 Promise 实现原理（一）：先写一个基础的 Promise](https://mp.weixin.qq.com/s/cZEZBPOlrH6oev6dZZTM6g)
@@ -29,26 +37,24 @@
   - [面试官连环追问：数组拍平（扁平化） flat 方法实现](https://segmentfault.com/a/1190000021366004)
   - [关于 JavaScript Object.keys() 排序问题的探索](https://mp.weixin.qq.com/s/foXbAj3ODqFKYGUP5K8MkQ)
   - [深入浅出前端本地储存](https://juejin.cn/post/6925311938419408904)
-  
 - TypeScript
   - [TypeScript 中提升幸福感的 10 个高级技巧](https://mp.weixin.qq.com/s/qyIFAI0AuKDE1cjThbZqSw)
-  
 - React
-  
+
   - [React 小书](http://huziketang.mangojuice.top/books/react/)
   - [CSS Modules 详解及 React 中实践](https://github.com/camsong/blog/issues/5)
   - [闲庭信步聊前端 - 原来你是这样的refs](https://mp.weixin.qq.com/s/UIz5ITrbyDy8ixrtjAE_Zg)
   - [Virtual DOM 认知误区](https://juejin.cn/post/6898526276529684493)
   - [useEffect完整指南](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/)
-  
+  - [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
+  - [深入 react 函数组件的 re-render 原理及优化](https://www.yuque.com/ycxu/qeq13e/aqizau)
 - 工程化
   - [辛辛苦苦学会的 webpack dll 配置，可能已经过时了](https://mp.weixin.qq.com/s/6vaO3fX4eLEjBIgydhMoJQ)
-  
+
   - [前端工程化 - 剖析npm的包管理机制](https://segmentfault.com/a/1190000021305625)
   - [Babel的那些库](https://varharrie.github.io/#/articles/29)
-  
 - Java
-  
+
   - [Java 设计模式](https://juejin.im/post/5bc96afff265da0aa94a4493)
   - [Java 8 flatMap example](https://mkyong.com/java8/java-8-flatmap-example/)
   - [用过Optional；那用过Try么?](https://mp.weixin.qq.com/s/o_YlSRdpoXp48YU6UIWZpw)
@@ -57,8 +63,6 @@
   - [Java中那些让你傻傻分不清楚的小细节](https://mp.weixin.qq.com/s/DIp9vhROicn-gwS_0CQImw)
   - [这样写代码，真是帅到没有朋友](https://mp.weixin.qq.com/s/4IUPsWc-lL1GguoMPfjKLw)
   - [Java中的枚举，这一篇全了，一些不为人知的干货](https://mp.weixin.qq.com/s/mAhiQcBOCKT9MnT6sNS3BQ)
-  - 
-  
 - Node
   - [Node’s Streams](https://jscomplete.com/learn/node-beyond-basics/node-streams)
   - [Node.js 的模块系统](https://loveky.github.io/2019/02/12/nodejs-module-system/)
@@ -67,45 +71,39 @@
   - [深入理解 Node.js Stream 内部机制](https://mp.weixin.qq.com/s/D54-txCSPjKdK-QewPG9Kw)
   - [编写高质量可维护的代码：异步优化](https://mp.weixin.qq.com/s/s6fVoY31MqUXrW8RPka3pA)
   - [How to code your own event emitter in Node.js: a step-by-step guide](https://www.freecodecamp.org/news/how-to-code-your-own-event-emitter-in-node-js-a-step-by-step-guide-e13b7e7908e1/)
-  
 - Git
   - [Git 内部原理图解——对象、分支以及如何从零开始建仓库](https://mp.weixin.qq.com/s/9uep93f3MCf1RzWTI6pw0A)
   - [Pull Request 概念](https://www.zhihu.com/question/21682976)
   - [Github Pages](https://github.com/vortesnail/blog/issues/8)
   - [GitHub + jsDelivr + PicGo + Imagine 打造稳定快速、高效免费图床](https://sitoi.cn/posts/39161.html)
   - [Github 漫游指南](http://github.phodal.com/)
-  
+  - [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 - HTTP
   - [搞懂 HTTP 重定向 - 如何优雅地使用 301](https://mp.weixin.qq.com/s/V-hx0uxdrUjgOIPWYP3b_Q)
   - [彻底弄懂 Http 缓存机制 - 基于缓存策略三要素分解法](https://mp.weixin.qq.com/s/qOMO0LIdA47j3RjhbCWUEQ)
-  
+  - [HTTP 协议入门](https://www.ruanyifeng.com/blog/2016/08/http.html)
+  - [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth/)
 - 计算机基础
-  
+
   - [用简单的代码，看懂 CPU 背后的重要机制](https://mp.weixin.qq.com/s/xpZE2uWsQOGjc1_P50q1Eg)
   - [Unicode中UTF-8与UTF-16的详细了解](https://my.oschina.net/wangch5453/blog/3044462#:~:text=%E8%AF%84%E8%AE%BA0-,%E5%9C%A8JavaScript%E4%B8%AD%EF%BC%8C%E6%89%80%E6%9C%89%E7%9A%84string%E7%B1%BB%E5%9E%8B%EF%BC%88%E6%88%96%E8%80%85%E8%A2%AB%E7%A7%B0,%E4%BD%BF%E7%94%A8UTF%2D16%E7%BC%96%E7%A0%81%E7%9A%84%E3%80%82&text=DOMString%20%E6%98%AF%E4%B8%80%E4%B8%AAUTF%2D16,%E7%9B%B4%E6%8E%A5%E6%98%A0%E5%B0%84%E5%88%B0%E4%B8%80%E4%B8%AA%20String%20%E3%80%82)
   - [一文读懂 Base64](https://mp.weixin.qq.com/s/67VoNO_tslkig2u0SQqBzA)
-  
 - 数据结构
   - [一个基于运气的数据结构，你猜是啥?](https://mp.weixin.qq.com/s/SYE8DP0YMrGl_Lc2CILPjg)
-  
 - 算法
   - [《关于我第一次看 KMP 算法就把它写出来了这件事》- 详解 next 数组](https://leetcode-cn.com/problems/implement-strstr/solution/guan-yu-wo-di-yi-ci-kan-kmp-suan-fa-jiu-sqs0d/)
-  
+  - [排序算法](https://www.liuhu.me/2020/08/sort-week08.html)
 - 数据库
   - [两阶段提交与三阶段提交](https://zhuanlan.zhihu.com/p/35616810)
   - [关于SQL优化，你不能只是说自己只会语句的优化了](https://mp.weixin.qq.com/s/cGSGB1WcojeS5ZUtbBRsdA)
   - [MongoDB 最全攻略](https://mp.weixin.qq.com/s/F-NM-NkyZ0iGMF49wwbtbQ)
-  
 - Redis
   - [《吊打面试官》系列-缓存雪崩、击穿、穿透](https://mp.weixin.qq.com/s/knz-j-m8bTg5GnKc7oeZLg)
   - [看完这篇文章，别再说不会 Redis 的高级特性了](https://mp.weixin.qq.com/s/VhG3VXsK4pZZKtmkk3odFg)
   - [Redis 多线程网络模型全面揭秘](https://mp.weixin.qq.com/s/-op5WR1wSkgAuP7JYZWP8g)
   - [Redis 哨兵模式](https://mp.weixin.qq.com/s/XRjUiYBBqoHTXeqUbq9Zzg)
-  
 - 安全
   - [面试官问：知道DDoS攻击吗?大概讲讲它的原理](https://mp.weixin.qq.com/s/X3AxkYB_ibhKu2UFTc7xpw)
-  
 - 深度学习
 
   - [生成对抗网络——原理解释和数学推导](https://alberthg.github.io/2018/05/05/introduction-gan/)
-
